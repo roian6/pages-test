@@ -10,4 +10,10 @@ img
 span
 {
 white-space:pre;
+width: auto;
+margin:10px;
+}
+.wrapper
+{
+    text-align:center;
 }
