@@ -1,1 +1,20 @@
-/* YOUR CSS */
+.wrapper {
+    text-align: center;
+}
+
+.profile {
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+    border-radius: 10px 10px 10px 10px;
+    object-fit: cover;
+}
+
+span {
+    display: block;
+}
