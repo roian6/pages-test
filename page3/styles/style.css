@@ -1,13 +1,11 @@
 /* YOUR CSS */
-.profile {
-	display:inline-flex;
-}
 span{
 	display: block;
 }
 .wrapper{
 	display: flex;
 	justify-content: center;
+	justify-content: space-around;
 }
 .footers{
 	text-align: center;
