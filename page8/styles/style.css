@@ -6,11 +6,29 @@ img
     border-radius: 20%;
     object-fit: contain;
 }
+.wrapper {
+    display: flex;
+    text-align: center;
+
+}
+.profile {
+    flex:1;
+}
 span
 {
     display: block;
+    text-align: left;
 }
-.wrapper
-{
+span.name {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+a {
     text-align: center;
+}
+
+.abcd {
+    text-align: center;
+    padding: 2em;
 }
