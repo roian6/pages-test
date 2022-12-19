@@ -1,1 +1,50 @@
 /* YOUR CSS */
+*{
+    font-size: 1.05em;
+}
+body{
+    background: url(https://storep-phinf.pstatic.net/ogq_5e71de3e69040/original_23.png?type=p100_100);
+}
+.wrapper {
+    text-align: center;
+}
+h1{
+    display: inline;
+    font-size: 1.5em;
+    background: #fff;
+}
+.profile_wrapper {
+    display: inline-block;
+    margin: 5%;
+}
+.profile_content {
+    position: relative;
+    text-align: left;
+    background: #fff;
+    padding: 20px;
+    border: 5px dashed #000;
+}
+  
+.profile_img {
+    width: 300px;
+    height: 400px;
+    border-radius: 70px;
+    object-fit: cover;
+}
+.profile_img.img2{
+    object-fit: contain;
+}
+  
+span { 
+    display: block;
+    word-wrap: break-word;
+    width: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+a{
+    background: #fff;
+    padding: 10px;
+    color: #000;
+    text-decoration: none;
+}
