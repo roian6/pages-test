@@ -1,1 +1,28 @@
 /* YOUR CSS */
+img{
+    width:300px; height: 400px;
+    border-radius: 70px;
+    object-fit: cover;
+    width: 300px;
+}
+.profile{
+    display: inline-block;
+    margin: 5%;
+}
+.content{
+    text-align: left;
+}
+.wrapper{
+    text-align: center;
+}
+span{
+    display: block;
+    word-wrap: break-word;
+    width: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+a{
+    display: block;
+    text-align: center;
+}
