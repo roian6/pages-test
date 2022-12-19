@@ -12,4 +12,4 @@ setInterval(()=> {
   heechan.innerHTML = heechanItor.slice(0, count)
 
   count++;
-}, 100)
+}, 150)
