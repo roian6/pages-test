@@ -7,13 +7,20 @@ img {
 }
 
 span {
-
+    width: 100%;
 }
 
 .wrapper {
-
+    text-align: center;
 }
 
 .profile {
     display: inline-block;
+    flex-direction: column;
+    margin: auto 100px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 18px;
 }
