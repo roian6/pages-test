@@ -1,1 +1,18 @@
-/* YOUR CSS */
+div{
+    width: 2000px;
+    height: 2000px;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+    object-fit: contain;
+}
+span{
+    width: 500px;
+    height: 100px;
+
+}
+.wrapper{
+    text-align: center;
+}
