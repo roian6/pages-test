@@ -20,3 +20,8 @@ span {
   
   display: inline-block;
 }
+
+a{
+  display:block;
+  text-align: center;
+}
