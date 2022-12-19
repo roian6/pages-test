@@ -8,6 +8,8 @@ img {
 
 span {
     width: 100%;
+    display: block;
+    margin-top: 15px;
 }
 
 .wrapper {
