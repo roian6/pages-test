@@ -11,5 +11,9 @@ span {
 }
 
 .wrapper {
-    
+
+}
+
+.profile {
+    display: inline-block;
 }
