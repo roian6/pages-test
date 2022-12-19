@@ -1,6 +1,6 @@
 /* YOUR CSS */
 body{
-    width: 800px;
+    width: 850px;
 }
 
 .profile{
@@ -8,6 +8,7 @@ body{
     height: 600px;
     margin-left: 50px;
     margin-right: 50px;
+    display: inline-block;
 }
 
 img{
