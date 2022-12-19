@@ -1,7 +1,4 @@
-div{
-    width: 2000px;
-    height: 2000px;
-}
+
 
 img{
     width: 300px;
@@ -15,4 +12,10 @@ span{
 }
 .wrapper{
     text-align: center;
+    width : 2000px;
+    height : 1000px;
+}
+.profile{
+    width : 800px;
+    height : 800px;
 }
