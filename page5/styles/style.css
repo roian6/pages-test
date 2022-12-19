@@ -1,1 +1,23 @@
 /* YOUR CSS */
+
+.wrapper {
+    display: inline-block;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    margin: auto 100px;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+    border-radius: 20%;
+    object-fit: cover;
+}
+
+span {
+    width: 100%;
+}
