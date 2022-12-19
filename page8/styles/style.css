@@ -5,6 +5,7 @@ img
     height: 400px;
     border-radius: 20%;
     object-fit: contain;
+    animation: rotate_image 1s linear infinite;transform-origin: 50% 50%;
 }
 .wrapper {
     display: flex;
@@ -30,4 +31,9 @@ a {
 .abcd {
     text-align: center;
     padding: 2em;
+}
+@keyframes rotate_image{
+    100% {
+        transform: rotate(360deg);
+    }
 }
