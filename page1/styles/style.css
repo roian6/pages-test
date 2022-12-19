@@ -1,1 +1,35 @@
 /* YOUR CSS */
+img
+{
+    width:300px;
+    height: 400px;
+    border-radius: 20%;
+    object-fit:cover;
+}
+
+a{
+    align-content: center;
+}
+
+span
+{
+white-space:pre;
+width: auto;
+text-align: left;
+margin: 100px;
+}
+.wrapper
+{
+    text-align:center;
+}
+
+.profile
+{
+    display: inline-block;
+    text-align: left;
+}
+
+.center
+{
+    text-align: center;
+}
