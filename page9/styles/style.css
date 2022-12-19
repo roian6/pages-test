@@ -33,3 +33,17 @@ img {
 span {
     display: block;
 }
+
+img:hover {
+    width: 450px;
+    height: 600px;
+    transition: 1s;
+}
+.name:hover{
+    font-size: 250%;
+    transition: 1s;
+}
+.number:hover , .introduce:hover{
+    font-size: 120%;
+    transition: 1s;
+}
