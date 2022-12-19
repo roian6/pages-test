@@ -7,11 +7,14 @@ img
     object-fit:cover;
 }
 
+a{
+    text-align: center;
+}
+
 span
 {
 white-space:pre;
 width: auto;
-margin:10px;
 text-align: left;
 }
 .wrapper
@@ -22,5 +25,5 @@ text-align: left;
 .profile
 {
     display: inline-block;
-    text-align-last: left;
+    text-align: left;
 }
