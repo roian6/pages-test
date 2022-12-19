@@ -4,7 +4,7 @@ img
     width:300px;
     height: 400px;
     border-radius: 20%;
-    object-fit: fill;
+    object-fit:cover;
 }
 
 span
@@ -16,4 +16,10 @@ margin:10px;
 .wrapper
 {
     text-align:center;
+}
+
+.profile
+{
+    display: inline;
+    text-align: left;
 }
