@@ -8,6 +8,21 @@
     margin-right: 5%;
 }
 
+.name{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(17, 0, 255);
+    text-align: left;
+    margin-bottom: 0.6%;
+}
+
+.number, .introduce{
+    font-size: 16px;
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
 img {
     width: 300px;
     height: 400px;
