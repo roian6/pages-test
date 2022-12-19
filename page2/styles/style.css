@@ -1,1 +1,30 @@
 /* YOUR CSS */
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile{
+    padding: 30px;
+}
+.profile img{
+    width: 300px;
+    height: 400px;
+    border-radius: 50px;
+    object-position: center;
+    object-fit: cover;
+}
+
+.name{
+    font-size: 2rem
+}
+
+.main{
+    color: black;
+    transition: 0.5s all;
+}
+.main:hover{
+    color: black;
+    font-size: 2rem
+
+}
