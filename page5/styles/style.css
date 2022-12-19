@@ -1,1 +1,23 @@
 /* YOUR CSS */
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.profile {
+    margin: auto 50px;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10%;
+}
+
+a {
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+}
