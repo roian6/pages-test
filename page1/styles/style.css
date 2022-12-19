@@ -12,6 +12,7 @@ span
 white-space:pre;
 width: auto;
 margin:10px;
+text-align: left;
 }
 .wrapper
 {
@@ -20,6 +21,6 @@ margin:10px;
 
 .profile
 {
-    display: inline;
-    text-align: left;
+    display: inline-block;
+    text-align-last: left;
 }
