@@ -1,1 +1,39 @@
 /* YOUR CSS */
+* {
+    font-family: 'Helvetica', 'Consolas', 'san-serif';
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile {
+    
+}
+
+img {
+    object-fit: cover;
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    border: 2px solid #7a7a7a;
+}
+
+span .name {
+    font-size: 14px;
+    font-weight: 800; 
+}
+
+span .number {
+    font-size: 0.7em;
+}
+
+span .intro {
+    font-size: 0.7em;
+}
+
+a {
+    font-size: 0.9em;
+}
