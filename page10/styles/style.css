@@ -1,1 +1,27 @@
 /* YOUR CSS */
+img {
+  width: 300px;
+  height: 400px;
+  border-radius: 4em;
+
+  object-fit: contain;
+}
+
+span {
+  word-break: break-all;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.wrapper > * {
+  width : 400px;
+  
+  display: inline-block;
+}
+
+a{
+  display:block;
+  text-align: center;
+}
