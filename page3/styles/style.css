@@ -1,1 +1,18 @@
 /* YOUR CSS */
+span{
+	display: block;
+}
+.wrapper{
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+}
+.footers{
+	text-align: center;
+}
+img{
+	width: 300px;
+	height: 400px;
+	border-radius: 30%;
+	object-fit: cover;
+}
