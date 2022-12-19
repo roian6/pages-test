@@ -6,3 +6,8 @@ img
     border-radius: 20%;
     object-fit: fill;
 }
+
+span
+{
+white-space:pre;
+}
