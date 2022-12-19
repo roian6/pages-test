@@ -1,1 +1,59 @@
 /* YOUR CSS */
+body
+{
+    -webkit-animation: blink 0.1s ease-in-out infinite alternate;
+  -moz-animation: blink 0.1s ease-in-out infinite alternate;
+  animation: blink 0.1s ease-in-out infinite alternate;
+}
+img
+{
+    width: 300px;
+    height: 400px;
+    border-radius: 20%;
+    object-fit: contain;
+    animation: rotate_image 1s linear infinite;transform-origin: 50% 50%;
+}
+.wrapper {
+    display: flex;
+    text-align: center;
+
+}
+.profile {
+    flex:1;
+}
+span
+{
+    display: block;
+}
+span.name {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+a {
+    text-align: center;
+}
+
+.abcd {
+    text-align: center;
+    padding: 2em;
+}
+@keyframes rotate_image{
+    100% {
+        transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes blink{
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @-moz-keyframes blink{
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @keyframes blink{
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
