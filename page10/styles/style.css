@@ -14,3 +14,9 @@ span {
 .wrapper {
   text-align: center;
 }
+
+.wrapper > * {
+  width : 400px;
+  
+  display: inline-block;
+}
