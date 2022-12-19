@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .wrapper {
     text-align: center;
   }
@@ -25,3 +26,26 @@
     margin-left: 25px;
     margin-right: 25px;
   }
+=======
+
+
+img{
+    width: 300px;
+    height: 400px;
+    object-fit: contain;
+}
+span{
+    width: 500px;
+    height: 100px;
+
+}
+.wrapper{
+    text-align: center;
+    width : 2000px;
+    height : 1000px;
+}
+.profile{
+    width : 800px;
+    height : 800px;
+}
+>>>>>>> 766a341d0c2b41462ac19b0c8b3b6debcb14c52c
