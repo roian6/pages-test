@@ -1,1 +1,12 @@
 /* YOUR CSS */
+.radius_img_2{
+    border-radius: 15%;
+}
+.wrapper .profile{
+    display: inline-block;
+  margin: 30px;
+  padding: 50px;
+}
+.wrapper{
+    text-align:center;
+}
