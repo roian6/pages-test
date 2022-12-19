@@ -1,18 +1,27 @@
-div{
-    width: 2000px;
-    height: 2000px;
-}
-
-img{
+.wrapper {
+    text-align: center;
+  }
+  
+  .profile_wrapper {
+    display: inline-block;
+    margin: 5%;
+  }
+  
+  .profile_content {
+    text-align: left;
+  }
+  
+  .profile_img {
     width: 300px;
     height: 400px;
-    object-fit: contain;
-}
-span{
-    width: 500px;
-    height: 100px;
-
-}
-.wrapper{
-    text-align: center;
-}
+    border-radius: 70px;
+    object-fit: cover;
+  }
+  
+  span { 
+    display: block;
+    word-wrap: break-word;
+    width: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
