@@ -1,13 +1,17 @@
 /* YOUR CSS */
 img{
     width:300px; height: 400px;
+    border-radius: 7px;
     object-fit: contain;
 }
 span{
     display:block;
 }
 .wrapper{
-   
     margin: auto;
     display: block;
+}
+.profile{
+    padding : 10px;
+    float:left;
 }
