@@ -1,28 +1,35 @@
-/* CSS */
-.wrapper {
-  text-align: center;
+/* YOUR CSS */
+img
+{
+    width:300px;
+    height: 400px;
+    border-radius: 20%;
+    object-fit:cover;
 }
 
-.profile_wrapper {
-  display: inline-block;
-  margin: 5%;
+a{
+    align-content: center;
 }
 
-.profile_content {
-  text-align: left;
+span
+{
+white-space:pre;
+width: auto;
+text-align: left;
+margin: 100px;
+}
+.wrapper
+{
+    text-align:center;
 }
 
-.profile_img {
-  width: 300px;
-  height: 400px;
-  border-radius: 70px;
-  object-fit: cover;
+.profile
+{
+    display: inline-block;
+    text-align: left;
 }
 
-span { 
-  display: block;
-  word-wrap: break-word;
-  width: 250px;
-  margin-left: 25px;
-  margin-right: 25px;
+.center
+{
+    text-align: center;
 }
