@@ -7,8 +7,6 @@
 
 .profile {
     margin: auto 50px;
-    display: flex;
-    flex-direction: column;
 }
 
 img {
