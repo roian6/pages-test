@@ -1,1 +1,13 @@
 /* YOUR CSS */
+img{
+    width:300px; height: 400px;
+    object-fit: contain;
+}
+span{
+    display:block;
+}
+.wrapper{
+   
+    margin: auto;
+    display: block;
+}
