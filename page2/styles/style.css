@@ -9,7 +9,10 @@ img {
 span {
     width: 100%;
     display: block;
+<<<<<<< HEAD
     margin-top: 15px;
+=======
+>>>>>>> 0121780fe110499137d542a4c3ab73aee31ec15f
 }
 
 .wrapper {
@@ -18,11 +21,22 @@ span {
 
 .profile {
     display: inline-block;
-    flex-direction: column;
     margin: auto 100px;
+    text-align: start;
 }
 
 .name {
     font-weight: bold;
-    font-size: 18px;
+    font-size: 35px;
+    
+}
+
+.center {
+    text-align: center;
+    margin: 30px;
+}
+
+a {
+    margin-left: auto;
+    margin-right: auto;
 }
